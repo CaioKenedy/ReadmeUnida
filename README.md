@@ -38,8 +38,8 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 ## 🚀 Como nossa solução será implementada?
 
 <p align="center">
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Stick1.png" alt="Mobile image"/>
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Stick2.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick1.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick2.png" alt="Mobile image"/>
   
 </p>
 
