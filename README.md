@@ -66,6 +66,15 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
 
 </p>
 
+## Revenue:
+
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick5.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick6.png" alt="Mobile image"/>
+
+</p>
+
+
 
 
 ### 📝 Licença
