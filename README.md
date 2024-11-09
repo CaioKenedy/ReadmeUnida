@@ -58,6 +58,16 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/grafico.png" alt="Mobile image"/>  
 </p>
 
+## Nossos Recursos:
+
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick3.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick4.png" alt="Mobile image"/>
+
+</p>
+
+
+
 ### 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
