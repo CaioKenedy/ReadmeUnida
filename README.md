@@ -26,10 +26,10 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 ## 🔖 No que iremos te beneficiar
 
 <p align="center">
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group1" alt="Mobile image"/>
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group2" alt="Mobile image"/>
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group3" alt="Mobile image"/>
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group4" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group 1" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group 2" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group 3" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/tree/main/img/group 4" alt="Mobile image"/>
 
 </p>
 
