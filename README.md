@@ -50,6 +50,12 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 2. Universidades
 3. Professores particulares
 
+## O quê nos difere do mercado?
+
+Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma visão profunda sobre o comportamento de alunos com necessidades especiais no contexto educacional. Com essa abordagem orientada por dados, ofereceremos insights valiosos ao mercado, possibilitando a criação e gestão de conteúdos personalizados para esse nicho. O objetivo é não apenas melhorar o aprendizado desses estudantes, mas também garantir uma experiência educacional mais confortável e adaptada às suas necessidades, promovendo uma jornada educacional inclusiva e eficaz
+
+
+
 ### 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
