@@ -54,7 +54,9 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 
 Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma visão profunda sobre o comportamento de alunos com necessidades especiais no contexto educacional. Com essa abordagem orientada por dados, ofereceremos insights valiosos ao mercado, possibilitando a criação e gestão de conteúdos personalizados para esse nicho. O objetivo é não apenas melhorar o aprendizado desses estudantes, mas também garantir uma experiência educacional mais confortável e adaptada às suas necessidades, promovendo uma jornada educacional inclusiva e eficaz
 
-
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/grafico.png" alt="Mobile image"/>  
+</p>
 
 ### 📝 Licença
 
