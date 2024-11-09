@@ -27,9 +27,9 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 
 <p align="center">
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Group1.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Group4.png" alt="Mobile image"/>
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Group2.png" alt="Mobile image"/>
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Group3.png" alt="Mobile image"/>
-  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Group4.png" alt="Mobile image"/>
 
 </p>
 
