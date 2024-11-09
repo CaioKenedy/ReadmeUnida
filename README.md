@@ -75,8 +75,8 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
 
 </p>
 
-## O Nosso Futuro
-
+## ⭐ O Nosso Futuro
+Quais são os próximos passos?
 <p align="center">
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick7.png" alt="Mobile image"/>
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick8.png" alt="Mobile image"/>
@@ -86,8 +86,18 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
 
 </p>
 
+## 🎯 Métricas 
+Quais métricas podem ser utilizadas para mensurar os benefícios?
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick11.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick12.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick13.png" alt="Mobile image"/>
+ 
+</p>
 
-Quais são os próximos passos?
+
+
+
 
 
 
