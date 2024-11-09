@@ -18,7 +18,6 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 - MENDIX
 - CSS3
 - PLUGINS
-- ETC
 
 
 
