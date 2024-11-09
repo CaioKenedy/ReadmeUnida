@@ -43,6 +43,7 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
   
 </p>
 
+# Business Plan
 
 ## 💼 Quem são nossos Stakeholders?
 
@@ -73,6 +74,28 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick6.png" alt="Mobile image"/>
 
 </p>
+
+## O Nosso Futuro
+
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick7.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick8.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick9.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick10.png" alt="Mobile image"/>
+
+
+</p>
+
+
+Quais são os próximos passos?
+
+
+
+
+
+
+
+
 
 
 
