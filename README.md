@@ -9,7 +9,7 @@
 
 > Nossa plataforma de avaliação permite que professores personalizem provas e quizzes, adaptando o formato das perguntas para atender às diferentes necessidades dos alunos, garantindo um ambiente de aprendizado acessível e inclusivo
 
-## 💻 Acessando o website
+## 💻 Acessando a Plataforma
 Você pode acessar o projeto [clicando aqui.](www.google.com)
 
 
@@ -35,16 +35,13 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 </p>
 
 
-## 🚀 executando o projeto
+## 🚀 Como nossa solução será implementada?
 
-```bash
-#### Clone o repositório
-git clone https://github.com/CaioKenedy/Caio-Discovery
-
-#### Entre no diretório
-cd Caio-Discovery
-```
-Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
+<p align="center">
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Stick1.png" alt="Mobile image"/>
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/Stick2.png" alt="Mobile image"/>
+  
+</p>
 
 
 ## 📫 Contribuindo para <Ca&o Discovery>
