@@ -44,13 +44,13 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 </p>
 
 
-## 📫 Quem são nossos Stakeholders?
+## 💼 Quem são nossos Stakeholders?
 
 1. Escolas
 2. Universidades
 3. Professores particulares
 
-## O quê nos difere do mercado?
+## 📈 O quê nos difere do mercado?
 
 Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma visão profunda sobre o comportamento de alunos com necessidades especiais no contexto educacional. Com essa abordagem orientada por dados, ofereceremos insights valiosos ao mercado, possibilitando a criação e gestão de conteúdos personalizados para esse nicho. O objetivo é não apenas melhorar o aprendizado desses estudantes, mas também garantir uma experiência educacional mais confortável e adaptada às suas necessidades, promovendo uma jornada educacional inclusiva e eficaz
 
@@ -58,7 +58,7 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/grafico.png" alt="Mobile image"/>  
 </p>
 
-## Nossos Recursos:
+## ⚙️ Nossos Recursos:
 
 <p align="center">
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick3.png" alt="Mobile image"/>
@@ -66,7 +66,7 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
 
 </p>
 
-## Revenue:
+## 💰 Revenue:
 
 <p align="center">
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick5.png" alt="Mobile image"/>
