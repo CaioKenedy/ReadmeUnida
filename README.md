@@ -9,8 +9,12 @@
 
 > Nossa plataforma de avaliação permite que professores personalizem provas e quizzes, adaptando o formato das perguntas para atender às diferentes necessidades dos alunos, garantindo um ambiente de aprendizado acessível e inclusivo
 
+
+
 ## 💻 Acessando a Plataforma
 Você pode acessar o projeto [clicando aqui.](www.google.com)
+
+
 
 
 
@@ -34,6 +38,7 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
 </p>
 
 
+
 ## 🚀 Como nossa solução será implementada?
 
 <p align="center">
@@ -42,13 +47,19 @@ Você pode acessar o projeto [clicando aqui.](www.google.com)
   
 </p>
 
+
+
 # Business Plan
+
+
 
 ## 💼 Quem são nossos Stakeholders?
 
 1. Escolas
 2. Universidades
 3. Professores particulares
+
+
 
 ## 📈 O quê nos difere do mercado?
 
@@ -58,6 +69,7 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/grafico.png" alt="Mobile image"/>  
 </p>
 
+
 ## ⚙️ Nossos Recursos:
 
 <p align="center">
@@ -66,6 +78,8 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
 
 </p>
 
+
+
 ## 💰 Revenue:
 
 <p align="center">
@@ -73,6 +87,9 @@ Nossa plataforma poderá ser projetada para fornecer métricas detalhadas e uma 
   <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/stick6.png" alt="Mobile image"/>
 
 </p>
+
+
+
 
 ## ⭐ O Nosso Futuro
 Quais são os próximos passos?
@@ -84,6 +101,9 @@ Quais são os próximos passos?
 
 
 </p>
+
+
+
 
 ## 🎯 Métricas 
 Quais métricas podem ser utilizadas para mensurar os benefícios?
