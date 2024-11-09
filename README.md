@@ -4,7 +4,7 @@
 
 ![](img/discoveryreadme.png)
 <p align="center">
- https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/image.jpg
+  <img src="https://github.com/CaioKenedy/ReadmeUnida/blob/main/img/image.jpg" alt="Mobile image"/>
 </p>
 
 > Nossa plataforma de avaliação permite que professores personalizem provas e quizzes, adaptando o formato das perguntas para atender às diferentes necessidades dos alunos, garantindo um ambiente de aprendizado acessível e inclusivo
